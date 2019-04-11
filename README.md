@@ -1,9 +1,9 @@
 # eradsp2019
 
-Hands-on
+##### Hands-on
 
 ## 1
-### go to OptionPrice Directory
+### 1.1 Go to OptionPrice Directory
 ```
 cd eradsp2019/app5/optionprice
 make clean ; make am_call_vp
@@ -12,20 +12,20 @@ make clean ; make am_call_vp
 
 eradsp2019/app5/optionprice/am_call_vp
 
-### In Advisor:
+### 1.2 In Advisor:
 
 #### Execute Survey Analysis
 #### Execute Trip Counts
 #### Memory Access Patterns
 
-### In Vtune:
+### 1.3 In Vtune:
 
 #### Execute HPC Characterization
 #### Execute Memory Access Analysis
 
 
 ## 2
-### go to Nbody Directory
+### 2.1 go to Nbody Directory
 ```
 cd eradsp2019/app6/nbody
 make clean ; make 
@@ -34,15 +34,13 @@ make clean ; make
 
 eradsp2019/app5/optionprice/nbody-v0d
 
-### In Advisor:
+### 2.2 In Advisor:
 
 #### Execute Survey Analysis
 #### Execute Trip Counts
 #### Memory Access Patterns
 
-### In Vtune:
+### 2.3 In Vtune:
 
 #### Execute HPC Characterization
 #### Execute Memory Access Analysis
-
-
