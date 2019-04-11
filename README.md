@@ -25,14 +25,14 @@ eradsp2019/app5/optionprice/am_call_vp
 
 
 ## 2
-### go to OptionPrice Directory
+### go to Nbody Directory
 ```
-cd eradsp2019/app5/optionprice
-make clean ; make am_call_vp
+cd eradsp2019/app6/nbody
+make clean ; make 
 ```
 ### The following binary will be created
 
-eradsp2019/app5/optionprice/am_call_vp
+eradsp2019/app5/optionprice/nbody-v0d
 
 ### In Advisor:
 
