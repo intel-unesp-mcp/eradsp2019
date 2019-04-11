@@ -14,14 +14,14 @@ eradsp2019/app5/optionprice/am_call_vp
 
 ### 1.2 In Advisor:
 
-#### Execute Survey Analysis
-#### Execute Trip Counts
-#### Memory Access Patterns
+#### - Execute Survey Analysis
+#### - Execute Trip Counts
+#### - Memory Access Patterns
 
 ### 1.3 In Vtune:
 
-#### Execute HPC Characterization
-#### Execute Memory Access Analysis
+#### - Execute HPC Characterization
+#### - Execute Memory Access Analysis
 
 
 ## 2
@@ -36,11 +36,11 @@ eradsp2019/app5/optionprice/nbody-v0d
 
 ### 2.2 In Advisor:
 
-#### Execute Survey Analysis
-#### Execute Trip Counts
-#### Memory Access Patterns
+#### - Execute Survey Analysis
+#### - Execute Trip Counts
+#### - Memory Access Patterns
 
 ### 2.3 In Vtune:
 
-#### Execute HPC Characterization
-#### Execute Memory Access Analysis
+#### - Execute HPC Characterization
+#### - Execute Memory Access Analysis
